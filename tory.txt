@@ -1,0 +1,47 @@
+[33mcommit 9d1895239d3110df1a37cc7f1e286b7d63d87f9f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Wenxi Yang <wenxi@royal-15.cs.wisc.edu>
+Date:   Thu Mar 12 20:14:00 2020 -0500
+
+    <Wenxi Yang> addition
+
+[33mcommit c4817cbee611a942b81245c03c78e68b06661068[m
+Author: Junxuan Zhang <junxuan@royal-03.cs.wisc.edu>
+Date:   Wed Mar 11 22:08:38 2020 -0500
+
+    junxuanzhang addition
+
+[33mcommit abc14399a8a16e49d192fba69a42a319dae97c45[m
+Author: Henry Conway <hconway@royal-16.cs.wisc.edu>
+Date:   Tue Mar 10 16:43:09 2020 -0500
+
+    <Henry Conway> addition
+
+[33mcommit 8b3f7895119f587eb381e5f5a7dd66abd8708cbe[m
+Author: Alvin Romano <aromano@royal-15.cs.wisc.edu>
+Date:   Fri Feb 28 22:55:37 2020 -0600
+
+    second paragraph
+
+[33mcommit d81ebb98029cbc13694fcf61fcae96b396c0499b[m
+Author: Wenxi Yang <wenxi@emperor-04.cs.wisc.edu>
+Date:   Fri Feb 28 19:25:26 2020 -0600
+
+    first paragraph
+
+[33mcommit 3564db32f0d8e4dfea7e492f300ba778771013c6[m
+Author: Wenxi Yang <61477229+wyang235@users.noreply.github.com>
+Date:   Fri Feb 28 18:42:51 2020 -0600
+
+    Delete storyYang
+
+[33mcommit c4151c0525a4ac4581db0f33ccd1fd7745881812[m
+Author: Wenxi Yang <61477229+wyang235@users.noreply.github.com>
+Date:   Fri Feb 28 13:07:47 2020 -0600
+
+    first paragraph
+
+[33mcommit 43967b070ad87328eef1443b4b1dd822461316c1[m
+Author: Wenxi Yang <61477229+wyang235@users.noreply.github.com>
+Date:   Thu Feb 27 23:11:15 2020 -0600
+
+    CS400_StoryYang
